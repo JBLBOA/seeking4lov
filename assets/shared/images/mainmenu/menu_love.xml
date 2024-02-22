@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_love.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="basic0000" x="0" y="0" width="644" height="168"/>
+	<SubTexture name="basic0001" x="644" y="0" width="644" height="168"/>
+	<SubTexture name="basic0002" x="644" y="0" width="644" height="168"/>
+	<SubTexture name="basic0003" x="0" y="168" width="644" height="168"/>
+	<SubTexture name="basic0004" x="0" y="168" width="644" height="168"/>
+	<SubTexture name="white0000" x="644" y="168" width="644" height="168"/>
+	<SubTexture name="white0001" x="0" y="336" width="644" height="168"/>
+	<SubTexture name="white0002" x="0" y="336" width="644" height="168"/>
+	<SubTexture name="white0003" x="644" y="336" width="644" height="168"/>
+	<SubTexture name="white0004" x="644" y="336" width="644" height="168"/>
+</TextureAtlas>
